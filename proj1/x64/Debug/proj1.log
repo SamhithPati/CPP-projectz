@@ -1,0 +1,3 @@
+﻿  numberOperations.cpp
+C:\Samhit\CPP\Projects\proj1\numberOperations.cpp(28,22): warning C4101: 'char1': unreferenced local variable
+  proj1.vcxproj -> C:\Samhit\CPP\Projects\proj1\x64\Debug\proj1.exe

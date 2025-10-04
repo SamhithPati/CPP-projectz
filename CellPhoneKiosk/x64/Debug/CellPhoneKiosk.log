@@ -1,0 +1,13 @@
+﻿  Cellphone.cpp
+  CellPhoneKiosk.cpp
+  Customer.cpp
+  Generating Code...
+C:\Samhit\CPP\Projects\CellPhoneKiosk\Customer.h(22,12): error C3646: 'phones': unknown override specifier
+  (compiling source file 'Customer.cpp')
+  
+C:\Samhit\CPP\Projects\CellPhoneKiosk\Customer.h(22,18): error C2143: syntax error: missing ',' before '['
+  (compiling source file 'Customer.cpp')
+  
+C:\Samhit\CPP\Projects\CellPhoneKiosk\Customer.h(22,30): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Customer.cpp')
+  

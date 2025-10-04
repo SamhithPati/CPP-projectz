@@ -1,0 +1,6 @@
+﻿  CMSY_171_Mid.cpp
+C:\Samhit\CPP\Projects\IP Evaluator\CMSY_171_Mid.cpp(25,7): warning C4101: 'badIP': unreferenced local variable
+C:\Samhit\CPP\Projects\IP Evaluator\CMSY_171_Mid.cpp(24,7): warning C4101: 'temp': unreferenced local variable
+C:\Samhit\CPP\Projects\IP Evaluator\CMSY_171_Mid.cpp(123,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Samhit\CPP\Projects\IP Evaluator\CMSY_171_Mid.cpp(114): warning C4715: 'openFile': not all control paths return a value
+  IP Evaluator.vcxproj -> C:\Samhit\CPP\Projects\IP Evaluator\x64\Debug\CMSY_171_Mid.exe
